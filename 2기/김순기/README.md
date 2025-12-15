@@ -1,8 +1,8 @@
 # 김순기
 ## 스터디
 ### 1주차
-Compose 함수들 (10 ~ 30) <br>
-Compose 컴파일러 (31 ~ 79)
+[Compose 함수들 (10 ~ 30)](https://draft.blogger.com/blog/post/edit/6066799942150028291/2996649455627744017?hl=ko](https://mydeviceinfotxt.blogspot.com/2025/12/compose-ui.html) <br>
+[Compose 컴파일러 (31 ~ 79) ](https://fuschia-basement-f24.notion.site/2-The-Compose-compiler-2c9f3bfa920480cb83f7cc280784c26d?source=copy_link](https://mydeviceinfotxt.blogspot.com/2025/12/compose-ui.html) 
 
 ### 2주차
 Compose Runtime - 1 (80 ~ 97) <br>
